@@ -2,6 +2,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         System.out.println("이모 안녕asdfasdfdsafdsadasf");
 =======
         System.out.println("이모 안녕");        
@@ -19,6 +20,9 @@ public class HelloWorld {
 =======
         System.out.println("version6");
 >>>>>>> 93caa15e9f8eadba664e7951ecb321bf1668e3d0
+=======
+        System.out.println("version8");
+>>>>>>> aa
     }
 }
 
