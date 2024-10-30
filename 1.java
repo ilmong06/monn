@@ -1,6 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
         System.out.println("이모 안녕asdfasdfdsafdsadasf");
 =======
         System.out.println("이모 안녕");        
@@ -15,6 +16,9 @@ public class HelloWorld {
         커밋하거라!git
 
 >>>>>>> 8f1148ffb260b86c59b29f08bd468404a690ceca
+=======
+        System.out.println("version6");
+>>>>>>> 93caa15e9f8eadba664e7951ecb321bf1668e3d0
     }
 }
 
